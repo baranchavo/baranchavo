@@ -20,11 +20,11 @@
   <a href="https://github.com/baranchavo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baranchavo&theme=transparent" />
   </a>
-  <a href="https://github.com/iqojs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqojs&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/baranchavo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranchavo&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/iqojs">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqojs&theme=transparent" />
+  <a href="https://github.com/baranchavo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=baranchavo&theme=transparent" />
   </a>
   <a href="https://github.com/iqojs">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranchavo&hide_border=true&card_width=338&&theme=transparent"/>
@@ -34,7 +34,7 @@
 
 <div align="center">
 <h2>Discord</h2>
- <a href="https://discord.com/users/1015845680067133480">
+ <a href="https://discord.com/users/525816524729221162">
  <img src="https://lanyard-profile-readme.vercel.app/api/1015845680067133480"></a>
 </div>
  
