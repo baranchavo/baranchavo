@@ -1,45 +1,19 @@
 <div align="center">
- <h1>Hello There 👋</h1> 
+<h1> :wave: Hi, I’m baranchavo </h1>
+<p> A high school student trying to gradually learn to code ❤ </p>
+  
+<h1> :grey_question: About </h1>
+  <p> :label: My name is Baran </p>
+  <p> :nerd: I am back-end developer </p>
+  <p> :flag_white: I live in Turkey </p>
+  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
- - I have been working programing with 3 years.
- - I am high school student.
- - My favorite language is JavaScript.
 
-</div>
+<h1> ✍ Technologies I use </h1>
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
-<div align="center">
- <h2>✍ Languages and Tools</h2>
- <img src="https://skillicons.dev/icons?i=css,sass,html,ts,js,tailwindcss,mongodb,discord,redis,mysql,sqlite,git,cloudflare,github,nodejs,vscode,express,cpp,react,aws,vite" />
-</div>
+<h1> :chart_with_upwards_trend: My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=baranchavo&show_icons=true&theme=dark" />
 
-<div align="center">
-
-<h1> :gem: Github Stats / My achievements </h1>
-<details>
-<p align="center">
-  <a href="https://github.com/baranchavo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baranchavo&theme=transparent" />
-  </a>
-  <a href="https://github.com/baranchavo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranchavo&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/baranchavo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=baranchavo&theme=transparent" />
-  </a>
-  <a href="https://github.com/iqojs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranchavo&hide_border=true&card_width=338&&theme=transparent"/>
-  </a>
-</p>
-</details>
-
-<div align="center">
-<h2>Discord</h2>
- <a href="https://discord.com/users/525816524729221162">
- <img src="https://lanyard-profile-readme.vercel.app/api/1015845680067133480"></a>
-</div>
- 
- <p align="center">
-  <a href="https://github.com/baranchavo">
-    <img src="https://komarev.com/ghpvc/?username=iqojs&color=blue&style=flat)" />
-  </a>
-</p>
+<h1> :gem: My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=baranchavo&theme=onedark" />
